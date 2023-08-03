@@ -3,7 +3,7 @@ A tic tac toe game playing against an AI
 
 * Install dependencies:
  
- `python install -r requirements.txt`
+ `pip install -r requirements.txt`
 
  * Run game:
 
